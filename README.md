@@ -4,7 +4,11 @@
 
 Basic React app that lists the stock of random photos.
 
+### Image-1
+
 ![Stock Photos App-1](https://github.com/sudarshan-sh/StockPhotosApp/blob/main/images/stock-photos.png)
+
+### Image-2
 
 ![Stock Photos App-2](https://github.com/sudarshan-sh/StockPhotosApp/blob/main/images/stock-photos-2.png)
 
