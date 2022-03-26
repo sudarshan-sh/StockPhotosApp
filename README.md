@@ -4,6 +4,10 @@
 
 Basic React app that lists the stock of random photos.
 
+![Stock Photos App-1](https://github.com/sudarshan-sh/StockPhotosApp/blob/main/images/stock-photos.png)
+
+![Stock Photos App-2](https://github.com/sudarshan-sh/StockPhotosApp/blob/main/images/stock-photos-2.png)
+
 ##  Functional
 
 *   Initially, specific amount of images are visible then after scrolling same number of different images will be shown.
